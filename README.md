@@ -38,7 +38,7 @@ Dive into Swift Macros with these WWDC sessions:
 ### Models
 - [Coding Keys](https://github.com/Ryu0118/CodingKeysMacro): Effortlessly generate CodingKeys for converting `snake_case` to `lowerCamelCase`.
 - [Builder pattern](https://github.com/dziobaczy/SwiftBuilderMacro): Apply the [Builder Pattern](https://refactoring.guru/design-patterns/builder) with ease by generating a `Builder` helper class, mimicking stored properties of the associated struct.
-
+- [Exploring Swift Macros](https://medium.com/dev-genius/exploring-new-swift-macros-api-245e0b1f7c8d): Sergey goes over creating a macro for a memberwise initaliser step by step with tests and convenience methods for SwiftSyntax. Repository is attached.
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
