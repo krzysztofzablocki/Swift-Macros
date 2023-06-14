@@ -30,6 +30,8 @@ Dive into Swift Macros with these WWDC sessions:
   - Francesco goes over creating your first macro with testing and some interesting tidbits.
 - [Exploring Swift Macros](https://medium.com/dev-genius/exploring-new-swift-macros-api-245e0b1f7c8d)
   - Sergey goes over creating a macro for a memberwise initaliser step by step with tests and convenience methods for SwiftSyntax
+- [Automating RawRepresentable Conformance with Swift Macros](https://otbivnoe.ru/2023/06/13/Automating-RawRepresentable-Conformance-with-Swift-Macros.html)
+  - Nikita goes over creating a macro for automating the String RawRepresentable conformance.
 ---
 
 ## Macros :computer:
