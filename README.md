@@ -38,6 +38,7 @@ Dive into Swift Macros with these WWDC sessions:
 
 ### SwiftUI
 - [EnvironmentValues & EnvironmentValue](https://github.com/Wouter01/SwiftUI-Macros/tree/main): Bypass boilerplate code and swiftly support new SwiftUI Environment Keys and Values.
+- [SFSymbols Macro](https://github.com/lukepistrol/SFSymbolsMacro): A Swift Macro for "type-safe" SF Symbols.
 
 ### Models
 - [Coding Keys](https://github.com/Ryu0118/CodingKeysMacro): Effortlessly generate CodingKeys for converting `snake_case` to `lowerCamelCase`.
