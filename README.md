@@ -27,7 +27,9 @@ Dive into Swift Macros with these WWDC sessions:
 - [Swift Macros by SwiftLee](https://www.avanderlee.com/swift/macros/)
   - Antoine goes over the introduction of what Macros are and how you can build your own one with an example.
 - [How to Create Swift Macros in Xcode 15](https://blog.leonifrancesco.com/articles/swift-macros)
-  - Francesco goes over creating your first macro with testing and some interesting tidbits. 
+  - Francesco goes over creating your first macro with testing and some interesting tidbits.
+- [Exploring Swift Macros](https://medium.com/dev-genius/exploring-new-swift-macros-api-245e0b1f7c8d)
+  - Sergey goes over creating a macro for a memberwise initaliser step by step with tests and convenience methods for SwiftSyntax
 ---
 
 ## Macros :computer:
