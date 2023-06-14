@@ -1,5 +1,5 @@
 # Swift Macros :rocket:
-<img align="left" width="256" height="256" src="https://github.com/krzysztofzablocki/Awesome-Macros/assets/1468993/0ac91128-4b52-4d1d-8f22-2d51180176de">
+<img align="left" width="256" height="256" src="https://github.com/krzysztofzablocki/Swift-Macros/blob/d218dea43b205e1c002feb28610d58d2c4d105dc/Icon.png">
 </br></br>
 
 Swift Macros have brought in a new wave of possibilities. The aim of this project is to curate a list of community-created Macros and associated learning resources. 
