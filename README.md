@@ -15,12 +15,16 @@ A lot of use-cases my [Sourcery](https://github.com/krzysztofzablocki/Sourcery) 
 - [Swift AST Explorer](https://swift-ast-explorer.com/)
   - This is extremely helpful when working with [SwiftSyntax](https://github.com/apple/swift-syntax), I used this when writing [Sourcery](https://github.com/krzysztofzablocki/Sourcery) parser and you can leverage it to build your own Macros. 
 
-### **WWDC 2023:**
+### **Apple:**
 
 Dive into Swift Macros with these WWDC sessions:
 
 - [Write Swift Macros](https://developer.apple.com/videos/play/wwdc2023-10166): An introductory session on Macros, their roles, and workings with a basic example.
 - [Expand Swift Macros](https://developer.apple.com/videos/play/wwdc2023-10167): A deeper exploration into crafting your Macros and testing their functionality.
+
+Other Apple Resources:
+
+- [Macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros): The Official Step-by-Step Guide to Using Macros for Compile-Time Code Generation in Swift.
 - [Example Swift Macros](https://github.com/DougGregor/swift-macro-examples): Check out real-world examples from Apple, like `@AddCompletionHandler` and `@AddAsync`.
 
 ### **Community Blogs**
