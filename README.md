@@ -56,6 +56,13 @@ that implements the same interface as the protocol and keeps track of interactio
 ### Enums
 - [ExtractCaseValue](https://github.com/fruitcoder/extract-case-value): A Swift macro that extracts associated values from enum cases.
 
+### Misc
+- [MacroKit](https://github.com/IanKeen/MacroKit): A collection of macros including:
+  - `@PublicInit`: Generate public memberwise init
+  - `@GenerateMock`: Create a mock object for testing from a protocol
+  - `@KeyPathIterable`: Like `CaseIterable` but for available keypaths on a type
+  - `@StaticMemberIterable`: Like `CaseIterable` but for available static members on a type
+  - More to come...
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
