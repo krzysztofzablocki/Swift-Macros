@@ -71,6 +71,7 @@ that implements the same interface as the protocol and keeps track of interactio
   - `@KeyPathIterable`: Like `CaseIterable` but for available keypaths on a type
   - `@StaticMemberIterable`: Like `CaseIterable` but for available static members on a type
   - More to come...
+- [InitMacro](https://github.com/LeonardoCardoso/InitMacro): A Swift Macro implementation that generates initializers for classes and structs with support for default values, wildcards and access control.
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
