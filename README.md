@@ -60,6 +60,10 @@ that implements the same interface as the protocol and keeps track of interactio
 ### Enums
 - [ExtractCaseValue](https://github.com/fruitcoder/extract-case-value): A Swift macro that extracts associated values from enum cases.
 
+### Utility
+- [AssociatedObject](https://github.com/p-x9/AssociatedObject): A Swift Macro for adding stored properties in Extension to classes defined in external modules, etc.  
+  (This is implemented by wrapping `objc_getAssociatedObject`/`objc_setAssociatedObject`.)
+
 ### Misc
 - [MacroKit](https://github.com/IanKeen/MacroKit): A collection of macros including:
   - `@PublicInit`: Generate public memberwise init
