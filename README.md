@@ -70,6 +70,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [InitMacro](https://github.com/LeonardoCardoso/InitMacro): A Swift Macro implementation that generates initializers for classes and structs with support for default values, wildcards and access control.
 - [AssociatedObject](https://github.com/p-x9/AssociatedObject): A Swift Macro for adding stored properties in Extension to classes defined in external modules, etc.  
   (This is implemented by wrapping `objc_getAssociatedObject`/`objc_setAssociatedObject`.)
+- [Reuse Identifier](https://github.com/collisionspace/ReuseIdentifierMacro): A Reuse Identifier Macro that is useful in generation of a reuse id for your UICollectionViewCells and UITableViewCells
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
