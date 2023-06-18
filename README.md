@@ -76,6 +76,7 @@ that implements the same interface as the protocol and keeps track of interactio
   - `@Exclude`,`@Extract`: Constructs a type by excluding(`@Exclude`) or extracting(`@Extract`) from enum all cases.
   - `@Parameters`: Constructs a tuple type from the types used in the parameters of a function type.
   - `@ReturnType`: Constructs a type consisting of the return type of function.
+- [Reuse Identifier](https://github.com/collisionspace/ReuseIdentifierMacro): A Reuse Identifier Macro that is useful in generation of a reuse id for your UICollectionViewCells and UITableViewCells
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
