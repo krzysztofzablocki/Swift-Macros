@@ -46,6 +46,7 @@ Other Apple Resources:
 
 ### Models
 - [Coding Keys](https://github.com/Ryu0118/CodingKeysMacro): Effortlessly generate CodingKeys for converting `snake_case` to `lowerCamelCase`.
+- [Coding Keys](https://github.com/sasha-riabchuk/CodingKeysMacro-swift): A Swift Macro for automating CodingKeys creation in Codable structs. Supports custom string mappings for properties.
 - [Builder pattern](https://github.com/dziobaczy/SwiftBuilderMacro): Apply the [Builder Pattern](https://refactoring.guru/design-patterns/builder) with ease by generating a `Builder` helper class, mimicking stored properties of the associated struct.
 - [EnhancedMirror](https://github.com/unixzii/EnhancedMirror): An experimental Mirror alternative that utilizes Swift Macros for static reflection.
 
