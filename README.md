@@ -51,6 +51,13 @@ Other Apple Resources:
 - [Coding Keys](https://github.com/sasha-riabchuk/CodingKeysMacro-swift): A Swift Macro for automating CodingKeys creation in Codable structs. Supports custom string mappings for properties.
 - [Builder pattern](https://github.com/dziobaczy/SwiftBuilderMacro): Apply the [Builder Pattern](https://refactoring.guru/design-patterns/builder) with ease by generating a `Builder` helper class, mimicking stored properties of the associated struct.
 - [EnhancedMirror](https://github.com/unixzii/EnhancedMirror): An experimental Mirror alternative that utilizes Swift Macros for static reflection.
+- [MetaCodable](https://github.com/SwiftyLab/MetaCodable): Generates `Codable` implementation with following features:
+  - Allows custom `CodingKey` value declaration per variable, instead of requiring you to write for all fields.
+  - Allows to create flattened model for nested `CodingKey` values.
+  - Allows to create composition of multiple `Codable` types.
+  - Allows to provide default value **in case of decoding failures**.
+  - Generates member-wise initializer **considering the default values**.
+  - Allows to create custom decoding/encoding strategies. 
 
 ### Testing
 - [Power Assert](https://github.com/kishikawakatsumi/swift-power-assert): Adds assertions that can automatically produce information about the values being evaluated, and present it in an easily digestible form.
