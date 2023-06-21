@@ -80,6 +80,7 @@ that implements the same interface as the protocol and keeps track of interactio
   - `@Parameters`: Constructs a tuple type from the types used in the parameters of a function type.
   - `@ReturnType`: Constructs a type consisting of the return type of function.
 - [Reuse Identifier](https://github.com/collisionspace/ReuseIdentifierMacro): A Reuse Identifier Macro that is useful in generation of a reuse id for your UICollectionViewCells and UITableViewCells
+- [SwiftMacros collection](https://github.com/ShenghaiWang/SwiftMacros): A practical collection of Swift Macros that help code correctly and smartly.
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
