@@ -36,6 +36,8 @@ Other Apple Resources:
   - Sergey goes over creating a macro for a memberwise initaliser step by step with tests and convenience methods for SwiftSyntax
 - [Automating RawRepresentable Conformance with Swift Macros](https://otbivnoe.ru/2023/06/13/Automating-RawRepresentable-Conformance-with-Swift-Macros.html)
   - Nikita goes over creating a macro for automating the String RawRepresentable conformance.
+- [Setup to develop Swift Macros](https://medium.com/@tim_wang/setup-to-develop-swift-macros-68d8fe2fea59)
+  - A step-by-step tutorial to develop Swift Macros.
 ---
 
 ## Macros :computer:
