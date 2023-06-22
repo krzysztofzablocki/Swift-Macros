@@ -80,6 +80,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [InitMacro](https://github.com/LeonardoCardoso/InitMacro): A Swift Macro implementation that generates initializers for classes and structs with support for default values, wildcards and access control.
 - [AssociatedObject](https://github.com/p-x9/AssociatedObject): A Swift Macro for adding stored properties in Extension to classes defined in external modules, etc.  
   (This is implemented by wrapping `objc_getAssociatedObject`/`objc_setAssociatedObject`.)
+- [AliasMacro](https://github.com/p-x9/AliasMacro): A Swift Macro for defining aliases for types, functions, or variables.
 - [UtilityType](https://github.com/bannzai/UtilityType): UtilityType is an innovative library designed to realize TypeScript's UtilityTypes in Swift. See more details: https://www.typescriptlang.org/docs/handbook/utility-types.html
   - `@Partial`,`@Required`: Constructs a type with all properties set to optional(`@Partial`) or require(`@Required`). This utility will return a type that represents all subsets of a given type.
   - `@Pick`,`@Omit`: Constructs a type by picking(`@Pick`) or removing(`@Omit`) the set of specific properties keys (only string literal) from attached Type.
