@@ -67,6 +67,7 @@ that implements the same interface as the protocol and keeps track of interactio
 
 ### Networking
 - [SwiftRequest](https://github.com/ailtonvivaz/swift-request): SwiftRequest is a lightweight, type-safe HTTP client for Swift, streamlining the construction and execution of HTTP request build on top of Macros.
+- [Papyrus](https://github.com/joshuawright11/papyrus): A type-safe, protocol based HTTP client - turn your APIs into Swift protocols. Includes first-class testing support with out of the box mocking.
 
 ### Enums
 - [ExtractCaseValue](https://github.com/fruitcoder/extract-case-value): A Swift macro that extracts associated values from enum cases.
