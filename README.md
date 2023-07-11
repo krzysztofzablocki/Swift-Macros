@@ -93,7 +93,8 @@ that implements the same interface as the protocol and keeps track of interactio
   - `@ReturnType`: Constructs a type consisting of the return type of function.
 - [Reuse Identifier](https://github.com/collisionspace/ReuseIdentifierMacro): A Reuse Identifier Macro that is useful in generation of a reuse id for your UICollectionViewCells and UITableViewCells
 - [SwiftMacros collection](https://github.com/ShenghaiWang/SwiftMacros): A practical collection of Swift Macros that help code correctly and smartly.
-- [ModifiedCopyMacro](https://github.com/WilhelmOks/ModifiedCopyMacro): A Swift macro for making inline copies of a struct by modifying a property. 
+- [ModifiedCopyMacro](https://github.com/WilhelmOks/ModifiedCopyMacro): A Swift macro for making inline copies of a struct by modifying a property.
+- [DictionaryLiteralShorthandMacro](https://github.com/Dcard/DictionaryLiteralShorthandMacro): A Swfit macro for creating dictionary literals with keys as "string representations of corresponding variable names".
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
