@@ -96,6 +96,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [SwiftMacros collection](https://github.com/ShenghaiWang/SwiftMacros): A practical collection of Swift Macros that help code correctly and smartly.
 - [ModifiedCopyMacro](https://github.com/WilhelmOks/ModifiedCopyMacro): A Swift macro for making inline copies of a struct by modifying a property.
 - [DictionaryLiteralShorthandMacro](https://github.com/Dcard/DictionaryLiteralShorthandMacro): A Swfit macro for creating dictionary literals with keys as "string representations of corresponding variable names".
+- [TemporaryVariable](https://github.com/yume190/TemporaryVariable): `TemporaryVariable` provide a macro `#info {...}`. It capture most function calls and assign them to temporary variables.
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
