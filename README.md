@@ -25,7 +25,7 @@ Dive into Swift Macros with these WWDC sessions:
 Other Apple Resources:
 
 - [Macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros): The Official Step-by-Step Guide to Using Macros for Compile-Time Code Generation in Swift.
-- [Example Swift Macros](https://github.com/DougGregor/swift-macro-examples): Check out real-world examples from Apple, like `@AddCompletionHandler` and `@AddAsync`.
+- [Example Swift Macros](https://github.com/apple/swift-syntax/tree/main/Examples/Sources/MacroExamples): Check out real-world examples from Apple, like `@AddCompletionHandler` and `@AddAsync`.
 
 ### **Community Blogs**
 - [Swift Macros by SwiftLee](https://www.avanderlee.com/swift/macros/)
