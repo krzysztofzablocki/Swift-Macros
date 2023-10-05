@@ -63,6 +63,11 @@ Other Apple Resources:
   - Generates member-wise initializer **considering the default values**.
   - Allows to create custom decoding/encoding strategies. 
 - [Sealed](https://github.com/leedh2004/SealedMacro): Parsing easily Sealed Class JSON Model on Server. (ex. kotlin server)
+- [MacroCodableKit](https://github.com/mikhailmaslo/macro-codable-kit): Fully self-sufficient `Codable` kit:
+   - Implements OpenAPI [allOf](https://spec.openapis.org/oas/v3.1.0#composition-and-inheritance-polymorphism) and [oneOf](https://spec.openapis.org/oas/v3.1.0#fixed-fields-20) specs
+   - Adjusts coding keys with a simple `@CodingKey` annotation
+   - Decodes arrays and dictionaries in a safe manner with `@CustomCoding(SafeDecoding)`
+   - Has built-in per-property `Codable` strategies and is extendible for new ones.
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
