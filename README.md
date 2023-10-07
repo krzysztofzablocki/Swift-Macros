@@ -66,6 +66,7 @@ Other Apple Resources:
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
+- [MDI](https://github.com/renato-iar/MDI): High performance dependency injection framework.
 
 ### Testing
 - [Power Assert](https://github.com/kishikawakatsumi/swift-power-assert): Adds assertions that can automatically produce information about the values being evaluated, and present it in an easily digestible form.
