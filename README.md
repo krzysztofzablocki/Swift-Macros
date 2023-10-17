@@ -77,6 +77,7 @@ Other Apple Resources:
 - [Power Assert](https://github.com/kishikawakatsumi/swift-power-assert): Adds assertions that can automatically produce information about the values being evaluated, and present it in an easily digestible form.
 - [Spyable](https://github.com/Matejkob/swift-spyable): A Swift macro that simplifies and automates the process of creating spies for testing. Using the `@Spyable` annotation on a protocol, the macro generates a spy class 
 that implements the same interface as the protocol and keeps track of interactions with its methods and properties.
+- [SwiftMock](https://github.com/MetalheadSanya/swift-mock): A Swift framework that simplifies and automates the process of creating mock objects for testing. Using the `@Mock` macro on a protocol generates Mock class. You can stub methods and properties, verifying mock calls.
 
 ### Networking
 - [SwiftRequest](https://github.com/ailtonvivaz/swift-request): SwiftRequest is a lightweight, type-safe HTTP client for Swift, streamlining the construction and execution of HTTP request build on top of Macros.
