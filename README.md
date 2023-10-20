@@ -112,6 +112,15 @@ that implements the same interface as the protocol and keeps track of interactio
 - [TemporaryVariable](https://github.com/yume190/TemporaryVariable): `TemporaryVariable` provide a macro `#info {...}`. It capture most function calls and assign them to temporary variables.
 - [Localizable](https://github.com/ADiks09/Localizable): `Localizable` A macro that produces variables and methods, for your localization files. From the enumeration keys.
 - [SafeDecoding](https://github.com/renato-iar/SafeDecoding): `SafeDecoding` A macro that implements failable decoding via custom initializer; allows auto-conformance to `Decodable`` and per-property opt-out.
+
+## Macro Development Helpers :hammer:
+
+### Testing Macros
+
+- [Swift Macro Testing](https://github.com/pointfreeco/swift-macro-testing): Magical testing tools for Swift macros.
+  - Provides `assertMacro`, an alternative to Apple's `assertMacroExpansion` that automatically snapshots macro expansions.
+  - Also provides string-based matching for diagnostics and fix-its instead of manually specifying line and column numbers.
+
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
