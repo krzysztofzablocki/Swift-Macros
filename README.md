@@ -69,6 +69,8 @@ Other Apple Resources:
    - Adjusts coding keys with a simple `@CodingKey` annotation
    - Decodes arrays and dictionaries in a safe manner with `@CustomCoding(SafeDecoding)`
    - Has built-in per-property `Codable` strategies and is extendible for new ones.
+- [SampleBuilder](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilder): The aim of @SampleBuilder is straightforward: Generate an array of sample data from your models for use in SwiftUI previews, unit tests, or any scenario that needs mock data—without the hassle of crafting it from scratch.It works with `structs` and `enums`!
+  - [SampleBuilderItem](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilderitem): If you want to customize your sample data even further for `.random` generator, you can use `@SampleBuilderItem` to specify the type of data you want to generate for each property in your model (images, prices, names, etc.). 
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
