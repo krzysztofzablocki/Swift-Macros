@@ -15,6 +15,12 @@ A lot of use-cases my [Sourcery](https://github.com/krzysztofzablocki/Sourcery) 
 - [Swift AST Explorer](https://swift-ast-explorer.com/)
   - This is extremely helpful when working with [SwiftSyntax](https://github.com/apple/swift-syntax), I used this when writing [Sourcery](https://github.com/krzysztofzablocki/Sourcery) parser and you can leverage it to build your own Macros. 
 
+### **Frameworks**
+
+- [Swift Macro Testing](https://github.com/pointfreeco/swift-macro-testing): Magical testing tools for Swift macros.
+  - Provides `assertMacro`, an alternative to Apple's `assertMacroExpansion` that automatically snapshots macro expansions.
+  - Also provides string-based matching for diagnostics and fix-its instead of manually specifying line and column numbers.
+
 ### **Apple:**
 
 Dive into Swift Macros with these WWDC sessions:
@@ -115,6 +121,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [Localizable](https://github.com/ADiks09/Localizable): `Localizable` A macro that produces variables and methods, for your localization files. From the enumeration keys.
 - [SafeDecoding](https://github.com/renato-iar/SafeDecoding): `SafeDecoding` A macro that implements failable decoding via custom initializer; allows auto-conformance to `Decodable`` and per-property opt-out.
 - [ObfuscateMacro](https://github.com/p-x9/ObfuscateMacro): A macro for obfuscating strings and make them harder to find by binary analysis.
+
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
