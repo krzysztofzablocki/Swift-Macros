@@ -120,6 +120,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [TemporaryVariable](https://github.com/yume190/TemporaryVariable): `TemporaryVariable` provide a macro `#info {...}`. It capture most function calls and assign them to temporary variables.
 - [Localizable](https://github.com/ADiks09/Localizable): `Localizable` A macro that produces variables and methods, for your localization files. From the enumeration keys.
 - [SafeDecoding](https://github.com/renato-iar/SafeDecoding): `SafeDecoding` A macro that implements failable decoding via custom initializer; allows auto-conformance to `Decodable`` and per-property opt-out.
+- [ObfuscateMacro](https://github.com/p-x9/ObfuscateMacro): A macro for obfuscating strings and make them harder to find by binary analysis.
 
 ---
 
