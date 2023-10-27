@@ -14,6 +14,8 @@ A lot of use-cases my [Sourcery](https://github.com/krzysztofzablocki/Sourcery) 
 ### **Tools**
 - [Swift AST Explorer](https://swift-ast-explorer.com/)
   - This is extremely helpful when working with [SwiftSyntax](https://github.com/apple/swift-syntax), I used this when writing [Sourcery](https://github.com/krzysztofzablocki/Sourcery) parser and you can leverage it to build your own Macros. 
+- [Macro ToolKit](https://github.com/stackotter/swift-macro-toolkit)
+  - A powerful toolkit for creating concise and expressive Swift macros.
 
 ### **Frameworks**
 
