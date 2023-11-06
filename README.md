@@ -89,6 +89,7 @@ Other Apple Resources:
 - [Spyable](https://github.com/Matejkob/swift-spyable): A Swift macro that simplifies and automates the process of creating spies for testing. Using the `@Spyable` annotation on a protocol, the macro generates a spy class 
 that implements the same interface as the protocol and keeps track of interactions with its methods and properties.
 - [SwiftMock](https://github.com/MetalheadSanya/swift-mock): A Swift framework that simplifies and automates the process of creating mock objects for testing. Using the `@Mock` macro on a protocol generates Mock class. You can stub methods and properties, verifying mock calls.
+- [XCTestParametrizedMacro](https://github.com/PGSSoft/XCTestParametrizedMacro): A Swift macro that greatly simplifies testing for many parameters. It will allow you to write one test method and parametrize it with many cases. Use `@Parametrize(input: ["any", "values"])` to automatically generate new test methods for all parameters.
 
 ### Networking
 - [SwiftRequest](https://github.com/ailtonvivaz/swift-request): SwiftRequest is a lightweight, type-safe HTTP client for Swift, streamlining the construction and execution of HTTP request build on top of Macros.
