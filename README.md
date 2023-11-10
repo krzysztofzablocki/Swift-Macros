@@ -125,6 +125,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [SafeDecoding](https://github.com/renato-iar/SafeDecoding): `SafeDecoding` A macro that implements failable decoding via custom initializer; allows auto-conformance to `Decodable`` and per-property opt-out.
 - [ObfuscateMacro](https://github.com/p-x9/ObfuscateMacro): A macro for obfuscating strings and make them harder to find by binary analysis.
 - [MemberwiseInit](https://github.com/gohanlon/swift-memberwise-init-macro): Informed by explicit developer cues, `@MemberwiseInit` can more often automatically provide your intended memberwise init, while following the same safe-by-default semantics underlying Swift’s memberwise initializers.
+- [PropertyTracer](https://github.com/p-x9/swift-property-tracer): Library for tracing access to properties.`@PropertyTraced` macro makes possible to trace from which method a property has been accessed.
 
 
 ---
