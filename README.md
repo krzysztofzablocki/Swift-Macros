@@ -96,6 +96,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [Papyrus](https://github.com/joshuawright11/papyrus): A type-safe, protocol based HTTP client - turn your APIs into Swift protocols. Includes first-class testing support with out of the box mocking.
 
 ### Enums
+- [CasePaths](https://github.com/pointfreeco/swift-case-paths): `@CasePathable` produces key paths for enum cases, allowing enums to be used in dynamic member lookup and other generic algorithms.
 - [ExtractCaseValue](https://github.com/fruitcoder/extract-case-value): A Swift macro that extracts associated values from enum cases.
 
 ### Misc
