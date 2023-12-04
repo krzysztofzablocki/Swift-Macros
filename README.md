@@ -8,6 +8,7 @@ A lot of use-cases my [Sourcery](https://github.com/krzysztofzablocki/Sourcery) 
 
 <br/><br/><br/><br/><br/>
 
+[**If you'd like to support my work and improve your engineering workflows, check out my SwiftyStack course**](https://www.swiftystack.com/)
 
 ## Learning Resources :books:
 
