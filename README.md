@@ -79,7 +79,9 @@ Other Apple Resources:
    - Decodes arrays and dictionaries in a safe manner with `@CustomCoding(SafeDecoding)`
    - Has built-in per-property `Codable` strategies and is extendible for new ones.
 - [SampleBuilder](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilder): The aim of @SampleBuilder is straightforward: Generate an array of sample data from your models for use in SwiftUI previews, unit tests, or any scenario that needs mock data—without the hassle of crafting it from scratch.It works with `structs` and `enums`!
-  - [SampleBuilderItem](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilderitem): If you want to customize your sample data even further for `.random` generator, you can use `@SampleBuilderItem` to specify the type of data you want to generate for each property in your model (images, prices, names, etc.). 
+  - [SampleBuilderItem](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilderitem): If you want to customize your sample data even further for `.random` generator, you can use `@SampleBuilderItem` to specify the type of data you want to generate for each property in your model (images, prices, names, etc.).
+  - [CodableOptionSet](https://github.com/neothXT/CodableOptionSet): CodableOptionSet allows for easy extensions to OptionSets implementing Codable protocol.
+  - [ListableProperties](https://github.com/neothXT/ListableProperties): ListableProperties macro adds `getProperties` static func which returns an array of all property names in your model.
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
@@ -96,6 +98,7 @@ that implements the same interface as the protocol and keeps track of interactio
 ### Networking
 - [SwiftRequest](https://github.com/ailtonvivaz/swift-request): SwiftRequest is a lightweight, type-safe HTTP client for Swift, streamlining the construction and execution of HTTP request build on top of Macros.
 - [Papyrus](https://github.com/joshuawright11/papyrus): A type-safe, protocol based HTTP client - turn your APIs into Swift protocols. Includes first-class testing support with out of the box mocking.
+- [SwiftNet](https://github.com/neothXT/SwiftNet): SwiftNet allows to create complex network request with built-in SSL/Certificate pinning, safe access token storage, automatic callback mechanism and the ability to build those requests as Combine's Publishers as well as Async/Await tasks.
 
 ### Enums
 - [CasePaths](https://github.com/pointfreeco/swift-case-paths): `@CasePathable` produces key paths for enum cases, allowing enums to be used in dynamic member lookup and other generic algorithms.
