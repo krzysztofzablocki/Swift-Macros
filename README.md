@@ -80,8 +80,8 @@ Other Apple Resources:
    - Has built-in per-property `Codable` strategies and is extendible for new ones.
 - [SampleBuilder](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilder): The aim of @SampleBuilder is straightforward: Generate an array of sample data from your models for use in SwiftUI previews, unit tests, or any scenario that needs mock data—without the hassle of crafting it from scratch.It works with `structs` and `enums`!
   - [SampleBuilderItem](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilderitem): If you want to customize your sample data even further for `.random` generator, you can use `@SampleBuilderItem` to specify the type of data you want to generate for each property in your model (images, prices, names, etc.).
-  - [CodableOptionSet](https://github.com/neothXT/CodableOptionSet): CodableOptionSet allows for easy extensions to OptionSets implementing Codable protocol.
-  - [ListableProperties](https://github.com/neothXT/ListableProperties): ListableProperties macro adds `getProperties` static func which returns an array of all property names in your model.
+- [CodableOptionSet](https://github.com/neothXT/CodableOptionSet): CodableOptionSet allows for easy extensions to OptionSets implementing Codable protocol.
+- [ListableProperties](https://github.com/neothXT/ListableProperties): ListableProperties macro adds `getProperties` static func which returns an array of all property names in your model.
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
