@@ -71,7 +71,13 @@ Other Apple Resources:
   - Allows to create composition of multiple `Codable` types.
   - Allows to provide default value **in case of decoding failures**.
   - Generates member-wise initializer **considering the default values**.
-  - Allows to create custom decoding/encoding strategies. 
+  - Allows to create custom decoding/encoding strategies.
+  - Allows specifying fallback `CodingKey` values for fields and cases.
+  - Allows to ignore specific properties/cases from decoding/encoding.
+  - Allows setting `CodingKey` case style per type.
+  - Allows decoding/encoding any type that conform to a particular protocol.
+  - Allows decoding/encoding enums and protocols with external/internal/adjacent identifier.
+  - Allows decoding/encoding enums and protocols with non-`String` identifier or customize the identifier detection.
 - [Sealed](https://github.com/leedh2004/SealedMacro): Parsing easily Sealed Class JSON Model on Server. (ex. kotlin server)
 - [MacroCodableKit](https://github.com/mikhailmaslo/macro-codable-kit): Fully self-sufficient `Codable` kit:
    - Implements OpenAPI [allOf](https://spec.openapis.org/oas/v3.1.0#composition-and-inheritance-polymorphism) and [oneOf](https://spec.openapis.org/oas/v3.1.0#fixed-fields-20) specs
