@@ -47,6 +47,8 @@ Other Apple Resources:
   - Nikita goes over creating a macro for automating the String RawRepresentable conformance.
 - [Setup to develop Swift Macros](https://medium.com/@tim_wang/setup-to-develop-swift-macros-68d8fe2fea59)
   - A step-by-step tutorial to develop Swift Macros.
+- [Support Swift macros with CocoaPods](https://soumyamahunt.medium.com/support-swift-macros-with-cocoapods-3911f9317042)
+  - Guide to distribute your macros using CocoaPods.
 ---
 
 ## Macros :computer:
