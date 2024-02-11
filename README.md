@@ -107,7 +107,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [SwiftRequest](https://github.com/ailtonvivaz/swift-request): SwiftRequest is a lightweight, type-safe HTTP client for Swift, streamlining the construction and execution of HTTP request build on top of Macros.
 - [Papyrus](https://github.com/joshuawright11/papyrus): A type-safe, protocol based HTTP client - turn your APIs into Swift protocols. Includes first-class testing support with out of the box mocking.
 - [SwiftNet](https://github.com/neothXT/SwiftNet): SwiftNet allows to create complex network request with built-in SSL/Certificate pinning, safe access token storage, automatic callback mechanism and the ability to build those requests as Combine's Publishers as well as Async/Await tasks. Framework also provides methods to test your requests easily with or without response model checks.
-- [Netty](https://github.com/neothXT/Netty): Type-safe, protocol based framework that includes Automatic Authentication Refresh, SSL/Certificate pinning, WebSocket and the path variable default value support.
+- [Netty](https://github.com/neothXT/Netty): Type-safe, protocol based framework that includes Automatic Authentication Refresh, SSL/Certificate pinning, NetworkMonitor, WebSocket and the path variable default value support.
 
 ### Enums
 - [CasePaths](https://github.com/pointfreeco/swift-case-paths): `@CasePathable` produces key paths for enum cases, allowing enums to be used in dynamic member lookup and other generic algorithms.
