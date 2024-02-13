@@ -65,7 +65,11 @@ Other Apple Resources:
 - [Coding Keys](https://github.com/sasha-riabchuk/CodingKeysMacro-swift): A Swift Macro for automating CodingKeys creation in Codable structs. Supports custom string mappings for properties.
 - [Coding Keys](https://github.com/zijievv/CodingKeysGenerator): Swift macros generating customizable `CodingKeys`.
 - [Builder pattern](https://github.com/dziobaczy/SwiftBuilderMacro): Apply the [Builder Pattern](https://refactoring.guru/design-patterns/builder) with ease by generating a `Builder` helper class, mimicking stored properties of the associated struct.
-- [Struct Builder Macro](https://github.com/alschmut/StructBuilderMacro): An attached macro that produces a peer struct which implements the builder pattern. This allows the creation of the struct with minimal effort using default values.
+- [Buildable Macro](https://github.com/alschmut/StructBuilderMacro): An attached macro for structs, classes and enums, which produces a peer struct implementing the builder pattern. Initialise your object with minimal effort using default values:
+  ```swift
+  @Buildable struct Person { ... }
+  let person = PersonBuilder(age: 42).build()
+  ```
 - [EnhancedMirror](https://github.com/unixzii/EnhancedMirror): An experimental Mirror alternative that utilizes Swift Macros for static reflection.
 - [MetaCodable](https://github.com/SwiftyLab/MetaCodable): Generates `Codable` implementation with following features:
   - Allows custom `CodingKey` value declaration per variable, instead of requiring you to write for all fields.
