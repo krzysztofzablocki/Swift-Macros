@@ -94,6 +94,10 @@ Other Apple Resources:
   - [SampleBuilderItem](https://github.com/pitt500/SwiftAndTipsMacros#samplebuilderitem): If you want to customize your sample data even further for `.random` generator, you can use `@SampleBuilderItem` to specify the type of data you want to generate for each property in your model (images, prices, names, etc.).
 - [CodableOptionSet](https://github.com/neothXT/CodableOptionSet): CodableOptionSet allows for easy extensions to OptionSets implementing Codable protocol.
 - [ListableProperties](https://github.com/neothXT/ListableProperties): ListableProperties macro adds `getProperties` static func which returns an array of all property names in your model.
+- [BuildableMacro](https://github.com/Mr-Alirezaa/BuildableMacro): A set of macros simplifying setter function generation for nominal types, inspired by SwiftUI modifiers and Observation framework macros:
+  - [`@Buildable`](https://github.com/Mr-Alirezaa/BuildableMacro#buildable) Automates the marking of settable properties as `@BuildableTracked`, excluding those marked as `@BuildableIgnored`.
+  - [`@BuildableTracked`](https://github.com/Mr-Alirezaa/BuildableMacro#buildabletracked) Generates setter functions for each marked property, allowing fluent chaining of modifications.
+  - [`@BuildableIgnored`](https://github.com/Mr-Alirezaa/BuildableMacro#buildabletracked) Excludes properties from automatic setter function generation.
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
