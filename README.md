@@ -156,7 +156,7 @@ that implements the same interface as the protocol and keeps track of interactio
   - `@AssociatedValues`: Add variables to retrieve the associated values.
   - `@Singleton`: Generate singleton code for struct and class.
   - More to come...
-- [Migrator](https://github.com/narek-sv/Migrator): Migrator is a versatile Swift Package designed to streamline the execution of asynchronous tasks with dependency management on all Apple platforms. The packgae also includes a handy macro for semantic verionins ([SemVer 2.0.0](https://semver.org/)).
+- [Migrator](https://github.com/narek-sv/Migrator): Migrator is a versatile Swift package designed to streamline the execution of asynchronous tasks with dependency management on all Apple platforms. The package also includes a handy macro for semantic versioning ([SemVer 2.0.0](https://semver.org/)).
   - `#SemanticVersion("1.2.3")`
 
 
