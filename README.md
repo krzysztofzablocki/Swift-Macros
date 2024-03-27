@@ -99,6 +99,7 @@ Other Apple Resources:
   - [`@BuildableTracked`](https://github.com/Mr-Alirezaa/BuildableMacro#buildabletracked) Generates setter functions for each marked property, allowing fluent chaining of modifications.
   - [`@BuildableIgnored`](https://github.com/Mr-Alirezaa/BuildableMacro#buildabletracked) Excludes properties from automatic setter function generation.
 - [StaticArray](https://github.com/malien/StaticArray): An allocation-less C-like fixed size arrays.
+- [UserDefaultsObservation](https://github.com/tgeisse/UserDefaultsObservation): Combines UserDefaults and the Observation Framework. Users can easily create an Observable class where properties are backed by UserDefaults and NSUbiquitousKeyValueStore.
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
