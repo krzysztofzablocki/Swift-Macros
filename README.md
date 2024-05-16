@@ -108,6 +108,7 @@ Other Apple Resources:
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
 - [MDI](https://github.com/renato-iar/MDI): High performance dependency injection framework.
 - [SwiftEnvironment](https://github.com/hainayanda/SwiftEnvironment): SwiftUI based Environment global dependency locator framework with macro.
+- [SafeDI](https://github.com/dfed/SafeDI): Compile-time safe dependency injection via code generation.
 
 ### Testing
 - [Mockable](https://github.com/Kolos65/Mockable): Provides automatic mock implementations for your protocols and an intuitive syntax that simplifies the process of mocking services and verifying invocations in your unit tests.
