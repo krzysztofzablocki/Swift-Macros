@@ -167,6 +167,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [Migrator](https://github.com/narek-sv/Migrator): Migrator is a versatile Swift package designed to streamline the execution of asynchronous tasks with dependency management on all Apple platforms. The package also includes a handy macro for semantic versioning ([SemVer 2.0.0](https://semver.org/)).
   - `#SemanticVersion("1.2.3")`
 - [Equatable](https://github.com/spacenation/swift-equatable): A macro for synthesizing `Equatable` conformance for classes and actors.
+- [CloakedString](https://github.com/pykaso/swiftmacro-cloaked-string): A macro designed to improve the security of open text strings in Swift applications
 
 
 
