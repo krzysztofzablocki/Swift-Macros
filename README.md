@@ -102,7 +102,8 @@ Other Apple Resources:
   - [`@BuildableIgnored`](https://github.com/Mr-Alirezaa/BuildableMacro#buildabletracked) Excludes properties from automatic setter function generation.
 - [StaticArray](https://github.com/malien/StaticArray): An allocation-less C-like fixed size arrays.
 - [UserDefaultsObservation](https://github.com/tgeisse/UserDefaultsObservation): Combines UserDefaults and the Observation Framework. Users can easily create an Observable class where properties are backed by UserDefaults and NSUbiquitousKeyValueStore.
-- [LoremSwiftify](https://github.com/EnesKaraosman/LoremSwiftify): LoremSwiftify is a Macro that creates lorem ipsum data for your models 
+- [LoremSwiftify](https://github.com/EnesKaraosman/LoremSwiftify): LoremSwiftify is a Macro that creates lorem ipsum data for your models.
+- [SwiftCopyable](https://github.com/ugommirikwe/SwiftCopyableMacro): Auto-generates a `copy` function for structs, making it easy to duplicate a struct instance while updating its properties with new values, similar to what Kotlin `data class` offers.
 
 ### Dependency Injection
 - [swift-blade](https://github.com/shackley/swift-blade): A macro powered dependency injection framework.
