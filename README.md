@@ -154,6 +154,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [DictionaryLiteralShorthandMacro](https://github.com/Dcard/DictionaryLiteralShorthandMacro): A Swfit macro for creating dictionary literals with keys as "string representations of corresponding variable names".
 - [TemporaryVariable](https://github.com/yume190/TemporaryVariable): `TemporaryVariable` provide a macro `#info {...}`. It capture most function calls and assign them to temporary variables.
 - [Localizable](https://github.com/ADiks09/Localizable): `Localizable` A macro that produces variables and methods, for your localization files. From the enumeration keys.
+- [Localize](https://github.com/Mackarous/Localize): `#Localize` An inline (freestanding) macro that expands to `LocalizedStringResource` and works within Swift packages.
 - [SafeDecoding](https://github.com/renato-iar/SafeDecoding): `SafeDecoding` A macro that implements failable decoding via custom initializer; allows auto-conformance to `Decodable`` and per-property opt-out.
 - [ObfuscateMacro](https://github.com/p-x9/ObfuscateMacro): A macro for obfuscating strings and make them harder to find by binary analysis.
 - [MemoizeMacro](https://github.com/tornikegomareli/MemoizeMacro?tab=readme-ov-file): A macro for effortless function memoization in Swift
