@@ -112,6 +112,7 @@ Other Apple Resources:
 - [SafeDI](https://github.com/dfed/SafeDI): Compile-time safe dependency injection via code generation.
 
 ### Testing
+- [Testable](https://github.com/fernandolucheti/TestableMacro): A macro that produces tests hooks on DEBUG builds to allow testing private methods and properties.
 - [Mockable](https://github.com/Kolos65/Mockable): Provides automatic mock implementations for your protocols and an intuitive syntax that simplifies the process of mocking services and verifying invocations in your unit tests.
 - [Power Assert](https://github.com/kishikawakatsumi/swift-power-assert): Adds assertions that can automatically produce information about the values being evaluated, and present it in an easily digestible form.
 - [Spyable](https://github.com/Matejkob/swift-spyable): A Swift macro that simplifies and automates the process of creating spies for testing. Using the `@Spyable` annotation on a protocol, the macro generates a spy class 
