@@ -132,6 +132,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [EnumeratorMacro](https://github.com/MahdiBM/enumerator-macro): Generate custom code for your enums using Mustache templates.
 
 ### Misc
+- [Protocol](https://github.com/fernandolucheti/ProtocolMacro.git): A macro that produces a protocol based on a class/struct public interface.
 - [MacroKit](https://github.com/IanKeen/MacroKit): A collection of macros including:
   - `@PublicInit`: Generate public memberwise init
   - `@GenerateMock`: Create a mock object for testing from a protocol
