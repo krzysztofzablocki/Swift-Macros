@@ -130,6 +130,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [CasePaths](https://github.com/pointfreeco/swift-case-paths): `@CasePathable` produces key paths for enum cases, allowing enums to be used in dynamic member lookup and other generic algorithms.
 - [ExtractCaseValue](https://github.com/fruitcoder/extract-case-value): A Swift macro that extracts associated values from enum cases.
 - [EnumeratorMacro](https://github.com/MahdiBM/enumerator-macro): Generate custom code for your enums using Mustache templates.
+- [EnumRawValues](https://github.com/DnV1eX/EnumRawValues): Enables full-fledged raw values for enums, supporting any equatable raw value types, assigning raw values with constants, expressions and more.
 
 ### Misc
 - [Protocol](https://github.com/fernandolucheti/ProtocolMacro.git): A macro that produces a protocol based on a class/struct public interface.
