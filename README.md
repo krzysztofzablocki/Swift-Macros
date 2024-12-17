@@ -131,6 +131,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [ExtractCaseValue](https://github.com/fruitcoder/extract-case-value): A Swift macro that extracts associated values from enum cases.
 - [EnumeratorMacro](https://github.com/MahdiBM/enumerator-macro): Generate custom code for your enums using Mustache templates.
 - [EnumRawValues](https://github.com/DnV1eX/EnumRawValues): Enables full-fledged raw values for enums, supporting any equatable raw value types, assigning raw values with constants, expressions and more.
+- [EnumOptionSet](https://github.com/DnV1eX/EnumOptionSet): Enables more concise and safer declaration of option sets through enumeration notation.
 
 ### Misc
 - [Protocol](https://github.com/fernandolucheti/ProtocolMacro.git): A macro that produces a protocol based on a class/struct public interface.
