@@ -182,6 +182,7 @@ that implements the same interface as the protocol and keeps track of interactio
   - `#SemanticVersion("1.2.3")`
 - [Equatable](https://github.com/spacenation/swift-equatable): A macro for synthesizing `Equatable` conformance for classes and actors.
 - [CloakedString](https://github.com/pykaso/swiftmacro-cloaked-string): A macro designed to improve the security of open text strings in Swift applications
+- [SmartLogMacro](https://github.com/AndriyGo/SmartLogMacro): Powerful Swift macros for structured logging, privacy, and seamless 3rd-party log forwarding
 
 
 
