@@ -51,6 +51,8 @@ Other Apple Resources:
   - Guide to distribute your macros using CocoaPods.
 - [Deep Dive Into Macros by Coding With Vera](https://codingwithvera.com/deep-dive-into-macros/)
   - Vera goes into how Macros work with a real-life comparison. Also explains the different types of macros and how they can help your codebase.
+- [How to Create Swift Macros: The Easiest and Least Boring Way](https://traderepublic.substack.com/p/how-to-create-swift-macros-the-easiest)
+  - A step-by-step guide to building your first Swift macro from scratch, simple and straightforward. Learn the syntax, how to register a macro, how to test it, and more, all with practical examples.
 ---
 
 ## Macros :computer:
