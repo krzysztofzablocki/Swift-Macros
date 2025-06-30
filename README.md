@@ -111,6 +111,7 @@ Other Apple Resources:
 - [SwiftEnvironment](https://github.com/hainayanda/SwiftEnvironment): SwiftUI based Environment global dependency locator framework with macro.
 - [SafeDI](https://github.com/dfed/SafeDI): Compile-time safe dependency injection via code generation.
 - [Stitch](https://github.com/entrhq/stitch): A lightweight, SwiftUI inspired, compile time safe dependency injection library fully integrated into the SwiftUI lifecycle and compatible with view composition updates.
+- [Crocodil](https://github.com/KazaiMazai/Crocodil): Elegant dependency injection with Swift Macro
 
 ### Testing
 - [Testable](https://github.com/fernandolucheti/TestableMacro): A macro that produces tests hooks on DEBUG builds to allow testing private methods and properties.
