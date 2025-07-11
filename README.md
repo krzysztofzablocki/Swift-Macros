@@ -136,6 +136,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [EnumeratorMacro](https://github.com/MahdiBM/enumerator-macro): Generate custom code for your enums using Mustache templates.
 - [EnumRawValues](https://github.com/DnV1eX/EnumRawValues): Enables full-fledged raw values for enums, supporting any equatable raw value types, assigning raw values with constants, expressions and more.
 - [EnumOptionSet](https://github.com/DnV1eX/EnumOptionSet): Enables more concise and safer declaration of option sets through enumeration notation.
+- [CaseEquatable](https://github.com/jakkornat/CaseEquatable): Automatically generates a “raw” case-only enumeration and makes your enum conform to `CaseEquatable`. This allows you to compare only the case names—ignoring any associated values.
 - [QuickEnum](https://github.com/jeffreykuiken/QuickEnum): Quickly generate a simple enum based on a property's type and a list of cases that you provide
 
 ### Misc
