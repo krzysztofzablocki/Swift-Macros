@@ -51,6 +51,8 @@ Other Apple Resources:
   - Guide to distribute your macros using CocoaPods.
 - [Deep Dive Into Macros by Coding With Vera](https://codingwithvera.com/deep-dive-into-macros/)
   - Vera goes into how Macros work with a real-life comparison. Also explains the different types of macros and how they can help your codebase.
+- [How to Create Swift Macros: The Easiest and Least Boring Way](https://traderepublic.substack.com/p/how-to-create-swift-macros-the-easiest)
+  - A step-by-step guide to building your first Swift macro from scratch, simple and straightforward. Learn the syntax, how to register a macro, how to test it, and more, all with practical examples.
 ---
 
 ## Macros :computer:
@@ -111,6 +113,7 @@ Other Apple Resources:
 - [SwiftEnvironment](https://github.com/hainayanda/SwiftEnvironment): SwiftUI based Environment global dependency locator framework with macro.
 - [SafeDI](https://github.com/dfed/SafeDI): Compile-time safe dependency injection via code generation.
 - [Stitch](https://github.com/entrhq/stitch): A lightweight, SwiftUI inspired, compile time safe dependency injection library fully integrated into the SwiftUI lifecycle and compatible with view composition updates.
+- [Crocodil](https://github.com/KazaiMazai/Crocodil): Elegant dependency injection with Swift Macro
 
 ### Testing
 - [Testable](https://github.com/fernandolucheti/TestableMacro): A macro that produces tests hooks on DEBUG builds to allow testing private methods and properties.
@@ -134,6 +137,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [EnumRawValues](https://github.com/DnV1eX/EnumRawValues): Enables full-fledged raw values for enums, supporting any equatable raw value types, assigning raw values with constants, expressions and more.
 - [EnumOptionSet](https://github.com/DnV1eX/EnumOptionSet): Enables more concise and safer declaration of option sets through enumeration notation.
 - [CaseEquatable](https://github.com/jakkornat/CaseEquatable): Automatically generates a “raw” case-only enumeration and makes your enum conform to `CaseEquatable`. This allows you to compare only the case names—ignoring any associated values.
+- [QuickEnum](https://github.com/jeffreykuiken/QuickEnum): Quickly generate a simple enum based on a property's type and a list of cases that you provide
 
 ### Misc
 - [Protocol](https://github.com/fernandolucheti/ProtocolMacro.git): A macro that produces a protocol based on a class/struct public interface.
