@@ -178,6 +178,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [MemoizeMacro](https://github.com/tornikegomareli/MemoizeMacro?tab=readme-ov-file): A macro for effortless function memoization in Swift
 - [MemberwiseInit](https://github.com/gohanlon/swift-memberwise-init-macro): Informed by explicit developer cues, `@MemberwiseInit` can more often automatically provide your intended memberwise init, while following the same safe-by-default semantics underlying Swift’s memberwise initializers.
 - [PropertyTracer](https://github.com/p-x9/swift-property-tracer): Library for tracing access to properties.`@PropertyTraced` macro makes possible to trace from which method a property has been accessed.
+- [URLMacro](https://github.com/alex-npmn/URLMacro): A lightweight Swift macro for compile-time URL validation. Validates URLs at build time with clear error messages and zero runtime overhead. Supports SwiftSyntax 509-601 for maximum compatibility.
 - [Swift Macros](https://github.com/bernndr/swift-macros): Contains a collection of useful macros:
   - `#symbol`: Verify if SFSymbol is valid
   - `#URL`: Validate and return URL Object
