@@ -192,7 +192,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [CloakedString](https://github.com/pykaso/swiftmacro-cloaked-string): A macro designed to improve the security of open text strings in Swift applications
 - [SmartLogMacro](https://github.com/AndriyGo/SmartLogMacro): Powerful Swift macros for structured logging, privacy, and seamless 3rd-party log forwarding
 - [Loggable](https://github.com/23122K/swift-loggable): Set of macros that support type-wide and per-function logging with ability to customize how logs are handled
-
+- [IterableMacros](https://github.com/davdroman/swift-iterable-macros): `@CaseIterable` and `@StaticMemberIterable` power macros.
 
 
 ---
