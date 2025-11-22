@@ -64,6 +64,7 @@ Other Apple Resources:
 - [Prototype (WIP)](https://github.com/mrylmz/Prototype): Prototype generates SwiftUI Forms and Views for data structures and classes, designed to complement SwiftData Models seamlessly.
 - [HexColors](https://github.com/alvmo/HexColors): Swift Macros for validating hex colors from string and hexadecimal integer literals.
 - [Equatable](https://github.com/ordo-one/equatable): A Swift Macros for generating Equatable conformances for structs for high performance SwiftUI view diffing.
+- [ColorMacros](https://github.com/davdroman/swiftui-color-macros): Compile-time-checked SwiftUI Colors.
 
 ### Models
 - [Coding Keys](https://github.com/Ryu0118/CodingKeysMacro): Effortlessly generate CodingKeys for converting `snake_case` to `lowerCamelCase`.
