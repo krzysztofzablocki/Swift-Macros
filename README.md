@@ -121,6 +121,7 @@ Other Apple Resources:
 ### Testing
 - [Testable](https://github.com/fernandolucheti/TestableMacro): A macro that produces tests hooks on DEBUG builds to allow testing private methods and properties.
 - [Mockable](https://github.com/Kolos65/Mockable): Provides automatic mock implementations for your protocols and an intuitive syntax that simplifies the process of mocking services and verifying invocations in your unit tests.
+- [swift-mockable](https://github.com/yysskk/swift-mockable): A Swift Macro that generates mock classes from protocols for testing with call tracking, configurable handlers, and thread-safe support for `Sendable` and `Actor` protocols.
 - [Power Assert](https://github.com/kishikawakatsumi/swift-power-assert): Adds assertions that can automatically produce information about the values being evaluated, and present it in an easily digestible form.
 - [Spyable](https://github.com/Matejkob/swift-spyable): A Swift macro that simplifies and automates the process of creating spies for testing. Using the `@Spyable` annotation on a protocol, the macro generates a spy class 
 that implements the same interface as the protocol and keeps track of interactions with its methods and properties.
