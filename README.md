@@ -196,6 +196,7 @@ that implements the same interface as the protocol and keeps track of interactio
 - [SmartLogMacro](https://github.com/AndriyGo/SmartLogMacro): Powerful Swift macros for structured logging, privacy, and seamless 3rd-party log forwarding
 - [Loggable](https://github.com/23122K/swift-loggable): Set of macros that support type-wide and per-function logging with ability to customize how logs are handled
 - [IterableMacros](https://github.com/davdroman/swift-iterable-macros): `@CaseIterable` and `@StaticMemberIterable` power macros.
+- [SettingsKit](https://github.com/gshaviv/SettingKit): Swift macros for saving values in UserDefaults. Type and Typo safe.
 
 
 ---
