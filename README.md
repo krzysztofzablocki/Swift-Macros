@@ -202,3 +202,4 @@ that implements the same interface as the protocol and keeps track of interactio
 ---
 
 _**Take part in this exciting evolution in Swift. Your contributions are most welcome!**_
+- [Needle](https://github.com/Yvsleyen00941/Needle) - High-polish native Swift macOS application.
